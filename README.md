@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### 2. eidt `.env` file
 exapmle:
 ```env
-WE_LANDLINE=05XXXXXXXX
+WE_LANDLINE=XXXXXXXX
 WE_PASSWORD=your_password
 ```
 
